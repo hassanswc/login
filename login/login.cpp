@@ -18,6 +18,7 @@ int main()
 	}
 
 	cout << "You are done";
+	cout << "Please logout";
 
 
 
